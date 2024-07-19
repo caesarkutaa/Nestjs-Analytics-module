@@ -1,6 +1,6 @@
-# NestJS Analytics and User Module
 
-# NestJS Analytics and User Module
+
+# NestJS Analytics Module
 
 This project is a NestJS module that provides analytics and user management features. It includes an Analytics module for tracking and reporting application metrics and user behavior, and a User module for managing users. The module uses MongoDB for data storage with Mongoose as the ODM (Object Data Modeling) library, and Prometheus for collecting metrics and monitoring services.
 
